@@ -4,25 +4,25 @@
       "eventID": 1,
       "eventName": "Synchronity",
       "eventThumb": "https://raw.githubusercontent.com/KevinYobeth/kevinyobeth.github.io/master/Ever/Banner/Banner_Synchronity.jpg",
-      "isNonProfit": "1"
+      "isNonProfit": 1
     },
     {
       "eventID": 2,
       "eventName": "Rearthlity",
       "eventThumb": "https://raw.githubusercontent.com/KevinYobeth/kevinyobeth.github.io/master/Ever/Banner/Banner_Rearthlity.jpg",
-      "isNonProfit": "0"
+      "isNonProfit": 0
     },
     {
       "eventID": 3,
       "eventName": "Computer Run",
       "eventThumb": "https://raw.githubusercontent.com/KevinYobeth/kevinyobeth.github.io/master/Ever/Banner/Banner_ComputerRun.jpg",
-      "isNonProfit": "0"
+      "isNonProfit": 0
     },
     {
       "eventID": 4,
       "eventName": "HISHOT",
       "eventThumb": "https://raw.githubusercontent.com/KevinYobeth/kevinyobeth.github.io/master/Ever/Banner/Banner_Hishot.jpg",
-      "isNonProfit": "1"
+      "isNonProfit": 1
     }
   ]
 }
